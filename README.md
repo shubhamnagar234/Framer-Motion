@@ -1,7 +1,7 @@
 # Framer-Motion
 Welcome to Framer Motion Mastery, a curated learning repository designed to take you from zero to advanced in React animations. Each chapter contains focused examples, isolated components, and real-world use cases so you can learn by building.
 
-# 🎬 Framer Motion Mastery (React Animations vX.X)
+# 🎬 Framer Motion Mastery (React Animations)
 A complete, production-grade repository for mastering **Framer Motion**, covering everything from fundamental animation principles to advanced motion patterns, transitions, layout animations, sequences, and a final real-world portfolio project.
 
 This repository goes beyond beginner tutorials, serving as a **professional reference** for developers seeking deep mastery of animation in modern React applications.
